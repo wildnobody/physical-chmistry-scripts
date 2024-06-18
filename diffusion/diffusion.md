@@ -41,12 +41,12 @@ convErr - error of conversion ratio.
 
 Select an image to process. If the is noise, adjust with threshold or mask. If part of the curve is out of frame,
 use the cropping tool in 'settings' to change the frame size. If you want to retain this info, press 'save data'.
-what will be saved is the points you saw in the results graph as a _raw.txr file.
+what will be saved is the points you saw in the results graph as a \_raw.txt file.
 
 ## 8. processing data
 
 Click 'process Data'. an Rsqure will appear at the bottom of the window, so you can guage the quality of your results. If you are satisfied
-press the 'save data' button. it will be saved as a _processed.txt file.
+press the 'save data' button. it will be saved as a \_processed.txt file.
 
 ## 9. extract graphs.
 
